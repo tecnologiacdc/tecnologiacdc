@@ -1,7 +1,7 @@
 # Ciudad Centro, C.A. :factory:
 **Departamento de Tecnología**
 
-:ballot_box_with_check: Equipo de desarrollo de software para tecnologías distintas a ABAP fuera de la plataforma de Workbench Tools de SAP.
+:ballot_box_with_check: Equipo de desarrollo de software para tecnologías fuera de SAP ABAP Workbench.
 
 ## Proyectos en ejecución :rocket: 
 Actualmente, nos encontramos trabajando en:
@@ -13,15 +13,17 @@ Actualmente, nos encontramos trabajando en:
 Java, Android, SQLite, XML
 ```
 
-:timer_clock: 4 meses
+:date: Enero - Mayo 2022
 
 ## Responsables :man_office_worker:
 
-| ROL           | NOMBRE          | CARGO               |
-| ------------- | --------------- | ------------------- |
-| Admin         | Sebastián Navas | Analista de sistema |
-| Maintain      | Luis Moreno     | Analista de sistema |
-| Writer        | Rosbel Silva    | Analista de sistema |
+| ROL           | NOMBRE          | CARGO                |
+| ------------- | --------------- | -------------------- |
+| Admin         | Sebastián Navas | Analista de sistemas |
+| Maintain      | Luis Moreno     | Analista de sistemas |
+| Writer        | Rosbel Silva    | Analista de sistemas |
+| Read          | Silvestre Navas | Consultor SAP MM     |
+| Read          | Donna Flores    | Coord. Tecnología    |
 
 > Si deseas contribuir, no dudes en contactarnos!
 
